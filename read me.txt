@@ -1,0 +1,13 @@
+
+This is my lab 1.
+
+I exported the database (jokes.sql) with some testing data. You can just import it right away (it creates database jokes).  
+
+There are two bugs:
+In statistic about the day with most jokes there is problem when there are 2 dates with same amount of jokes. 
+    I had some idea to get the number of affected rows and try to display the date but i had problems and could not solve this. 
+
+Also during testing from time to time when i paste some content it says that the joke was added but actually it is not. 
+  I am trying to figure out what is the problem since it is so random. 
+
+I am looking forward to the feedback. 
